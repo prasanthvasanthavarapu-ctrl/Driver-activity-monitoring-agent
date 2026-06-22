@@ -1,0 +1,15 @@
+{
+    "raw_telemetry": {
+        "timestamp": "2026-06-19T18:24:23.271039",
+        "speed_kmh": 87,
+        "steering_angle_degrees": -1,
+        "brake_pressure_percent": 27,
+        "acceleration_mps2": -2.6
+    },
+    "agent_analysis": {
+        "behavior_classification": "Safe",
+        "safety_score": 85,
+        "alerts": [],
+        "summary": "The driver is maintaining a moderate speed with stable steering and applying moderate braking."
+    }
+}
